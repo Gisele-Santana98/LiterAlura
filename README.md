@@ -2,8 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green?logo=springboot)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 > Projeto que consome a API Gutendex para exibir livros, autores e idiomas de domínio público, salvando informações no banco de dados local.
 
