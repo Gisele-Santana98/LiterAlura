@@ -23,14 +23,6 @@
 
 ---
 
-## 📸 Exemplo da Interface no Terminal
-
-![Exemplo Terminal](https://raw.githubusercontent.com/seu-usuario/literalura/main/assets/terminal-exemplo.png)
-
-> *Imagem ilustrativa do menu interativo. Pode ser substituída por um print real do seu terminal (formato PNG ou JPG).*
-
----
-
 ## 🧪 Tecnologias Usadas
 
 - Java 21 
@@ -44,7 +36,6 @@
 ---
 
 ## 🗂️ Estrutura do Projeto
-
 
 literalura
 ├── model/
@@ -63,16 +54,18 @@ literalura
 └── resources/
 └── application.properties
 
-💡 Observações
+---
+
+## 💡 Observações 
+
 A aplicação é interativa via terminal.
-
 Os dados dos livros são persistidos localmente usando JPA.
-
 Evita duplicações ao salvar os livros.
-
 Algumas funcionalidades fazem uso de validações para garantir que os dados da API sejam completos.
 
-👩‍💻 Desenvolvedora
+---
+
+## 👩‍💻 Desenvolvedora
 Feito com ❤️ por Gisele
 
 GitHub: @Gisele-Santana98
