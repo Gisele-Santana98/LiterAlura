@@ -1,6 +1,6 @@
 # 📚 Literalura - Consulta Literária com Java + Spring Boot
 
-![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green?logo=springboot)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
